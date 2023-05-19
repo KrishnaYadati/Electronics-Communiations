@@ -12,7 +12,7 @@
 
 6.Electro-Magnetic Theory
 
-7.Networks
+7.Network Theory
 
 8.Control Systems
 
