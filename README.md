@@ -2,7 +2,7 @@
 ## Subjects are :
 1.Analog Electronics
 
-2.Digital Electronics
+2.Digital Electronic
 
 3.Communication sytems
 
